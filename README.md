@@ -1,4 +1,4 @@
-# PaperCCTVAyam
+# Cross-Domain Few-Shot Semantic Segmentation for Poultry Mortality Detection Using Hierarchical Feature-Enhanced Prototype Learning
 
 This repository contains several implementations and experimental variants for Cross-Domain Few-Shot Semantic Segmentation (CD-FSS) and SAM2-based segmentation.
 
